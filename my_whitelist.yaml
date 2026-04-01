@@ -1,0 +1,15 @@
+payload:
+  # === 个人自建服务 ===
+  - DOMAIN-SUFFIX,anyrouter.top
+
+  # === QQ音乐/腾讯服务防误杀 ===
+  - DOMAIN-SUFFIX,music.qq.com
+  - DOMAIN-SUFFIX,music.tc.qq.com
+  - DOMAIN-SUFFIX,qqmusic.qq.com
+  - DOMAIN-KEYWORD,qpic
+  - DOMAIN-KEYWORD,qqmusic
+
+  # === 英雄联盟游戏防误杀 ===
+  - DOMAIN-SUFFIX,riotgames.com
+  - DOMAIN-SUFFIX,lol.qq.com
+  - DOMAIN-KEYWORD,riotgames
