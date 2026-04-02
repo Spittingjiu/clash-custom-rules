@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,lol.qq.com
   - DOMAIN-KEYWORD,riotgames
+  - DOMAIN-KEYWORD,leagueoflegendsportal.com
