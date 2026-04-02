@@ -1,8 +1,5 @@
 payload:
   # === 个人小众服务 ===
-  - DOMAIN,anyrouter.top
-  - DOMAIN,www.anyrouter.top
-  - DOMAIN-SUFFIX,anyrouter.top
 
   # === QQ音乐/腾讯服务防误杀 ===
   - DOMAIN-SUFFIX,music.qq.com
