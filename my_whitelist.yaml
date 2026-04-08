@@ -14,17 +14,5 @@ payload:
   - DOMAIN-KEYWORD,riotgames
   - DOMAIN-KEYWORD,leagueoflegendsportal.com
 
-  # === 陌陌 Momo 直连 ===
+  # === 陌陌直连 ===
   - DOMAIN-SUFFIX,immomo.com
-  - DOMAIN-SUFFIX,momocdn.com
-  - DOMAIN-SUFFIX,wemomo.com
-  - DOMAIN-SUFFIX,immomo.cn
-
-  # === 陌陌关键接口补充（覆盖广告规则误杀）===
-  - DOMAIN,api.immomo.com
-  - DOMAIN,live-api.immomo.com
-  - DOMAIN,paas-push-api.immomo.com
-  - DOMAIN,paas-push-api-log.immomo.com
-  - DOMAIN-SUFFIX,app-log-lab.immomo.com
-  - DOMAIN-SUFFIX,app-log-oversea.immomo.com
-  - DOMAIN-SUFFIX,momode.net
