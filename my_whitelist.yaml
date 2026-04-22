@@ -15,3 +15,4 @@ payload:
   - DOMAIN-KEYWORD,qiyi
   - DOMAIN-KEYWORD,iqiyi
   - PROCESS-NAME,com.qiyi.video
+  - PROCESS-NAME,com.taobao.idlefish
